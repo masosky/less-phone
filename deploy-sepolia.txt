@@ -1,0 +1,4 @@
+LessPhone
+
+Attempting to deploy from account 0x1E9F31A45d25F4030A61b584a990FAdD73a00d9E
+Contract deployed to 0xAC4B515CA4A9Ce9F26e797339902024465D8ef6a
